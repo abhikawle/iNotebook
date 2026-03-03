@@ -78,17 +78,17 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in your brow
 
 ### Frontend
 - 
-pm start - Start development server
+npm start - Start development server
 - 
-pm run build - Build for production
+npm run build - Build for production
 - 
-pm test - Run tests
+npm test - Run tests
 
 ### Backend
 - 
-pm start - Start the Node.js server
+npm start - Start the Node.js server
 - 
-pm test - Run backend tests
+npm test - Run backend tests
 
 ## API Endpoints
 
